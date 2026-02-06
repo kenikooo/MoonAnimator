@@ -9,7 +9,8 @@ Moon Animator on Market: https://create.roblox.com/store/asset/4725618216/Moon-A
 
 RU VERSION:
 Установите файл *.rbxm, откройте/создайте игру в Roblox Studio, поместите установленный файл,
-затем через проводник в студии вы увидите папку Moon Animator. 
+затем через Exporer в Роблокс Студио вы увидите папку Moon Animator.
 Откройте вкладку "Плагины" вверху и перетащите эту папку туда.
+*или же нажмите по папке Правой Кнопкой Мыши (ПКМ), и выберите "Save as Local Plugin" (опция может называться иначе (в связи с обновлениям в Роблокс Студио), но исход остается тем же)
 
 Moon Animator в Магазине: https://create.roblox.com/store/asset/4725618216/Moon-Animator-2
